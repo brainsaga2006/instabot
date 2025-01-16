@@ -2,7 +2,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/brainsaga2006/instabot.git
-   cd instagram-downloader
+   cd instabot
    ```
 
 2. Install the dependencies:
